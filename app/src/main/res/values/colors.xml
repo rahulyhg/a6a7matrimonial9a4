@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7b2665</color>
+    <color name="colorPrimaryDark">#7b2671</color>
+    <color name="colorAccent">#7b2671</color>
+
+    <color name="colorPrimaryOverlay">#fff9f8</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff0000</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackOverlay">#80000000</color>
+
+    <color name="colorGrey">#95989A</color>
+    <color name="colorGreyOverlay">#808c8686</color>
+
+    <!--Login Screen-->
+    <color name="btn_login">#f2ccd9</color>
+    <color name="btn_sortlisted">#94327f</color>
+    <color name="btn_login_font">#94327f</color>
+    <color name="et_login_bg_white">#FFF</color>
+    <color name="et_search_bf_bg_white">#FFF</color>
+    <color name="tv_login_Tc">#FFF</color>
+    <color name="nav_bar_header">#131327</color>
+    <color name="nav_bar_menu">#131327</color>
+    <color name="btn_sortlist_font">#94327f</color>
+    <color name="btn_sortlisted_font">#FFF</color>
+    <color name="btn_details_pi">#94327f</color>
+    <color name="btn_details_ci">#94327f</color>
+    <color name="btn_details_pi_grey">#5e5c5c</color>
+    <color name="btns_details_divider">#FFF</color>
+    <color name="txts_details_divider">#aba9a9</color>
+    <color name="layout_bi_divider">#aba9a9</color>
+    <color name="bg_crad_grey">#ecedf0</color>
+    <color name="layout_bg_bi">#FFF</color>
+    <color name="btn_phone">#94327f</color>
+    <color name="btn_feedback_txt">#FFF</color>
+    <color name="feedback_round">#a7a6a6</color>
+    <color name="btn_bio_data_generate">#f2ccd9</color>
+    <color name="btn_generate_biodata_font">#94327f</color>
+
+    <color name="btn_send_biodata_font">#f2ccd9</color>
+    <color name="event_txt_color">#ffe4e1</color>
+    <color name="age_limit_select_color">#94327f</color>
+    <color name="tab_indicator">#94327f</color>
+    <color name="age_limit_notselect_color">#aba9a9</color>
+    <color name="age_limit_bg">#00FFFFFF</color>
+    <color name="tab_select_txt">#FFF</color>
+    <color name="tab_defaul_txt">#837e7e</color>
+    <color name="card_main_back">#fff9f8</color>
+    <color name="tab_bg">#FFF</color>
+    <color name="nav_icon_color">#ffe4e1</color>
+    <color name="nav_bar_menu_txt">#ffe4e1</color>
+    <color name="floting_btn">#00000000</color>
+    <color name="et_email_bio_bg">#FFF</color>
+    <color name="btn_email_bio_bg">#7b2671</color>
+    <color name="my_txt_title_color">#626262</color>
+    <color name="my_txt_main_color">#000000</color>
+    <color name="btn_feedback_color">#94327f</color>
+</resources>

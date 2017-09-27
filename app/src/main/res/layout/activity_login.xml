@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg"
+    android:gravity="center"
+    android:padding="@dimen/_10sdp"
+    tools:context=".Screens.LoginActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/et_login_user"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:background="@color/et_login_bg_white"
+            android:hint="@string/login_user_hint"
+            android:paddingLeft="@dimen/_10sdp" />
+
+        <EditText
+            android:id="@+id/et_login_password"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_below="@+id/et_login_user"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@color/et_login_bg_white"
+            android:hint="@string/login_password_hint"
+            android:inputType="textPassword"
+            android:paddingLeft="@dimen/_10sdp" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_below="@+id/et_login_password"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@color/btn_login"
+            android:text="@string/btn_login"
+            android:textAllCaps="false"
+            android:textColor="@color/btn_login_font" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_TC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="@string/login_TC"
+        android:textColor="@color/tv_login_Tc"
+        android:textSize="@dimen/_8sdp" />
+
+</RelativeLayout>

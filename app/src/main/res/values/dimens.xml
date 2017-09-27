@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Default screen margins,A per the Android Design guidelines(For NavBar). -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">140dp</dimen>
+    <dimen name="dim_nav_hdr_title">@dimen/_15sdp</dimen>
+    <dimen name="dim_nav_hdr_sub_title">@dimen/_10sdp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tile_txt">@dimen/_10sdp</dimen>
+    <!--ToolBar TextView Size-->
+    <dimen name="dim_app_tb_tv">@dimen/_15sdp</dimen>
+    <!--Recycler View-->
+    <dimen name="dim_app_recyclerview_padding">@dimen/_36sdp</dimen>
+
+
+
+</resources>
